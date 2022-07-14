@@ -1,16 +1,10 @@
 # Weather App SV
 
-A new Flutter project.
+This is a Flutter project using dart language.
 
-## Getting Started
+This is a weather app which gets your location and shows the weather with icon. It also shows pressure and humidity. 
 
-This project is a starting point for a Flutter application.
+It also contains an option to enter a city to get the weather of that city.
 
-A few resources to get you started if this is your first Flutter project:
+Also it has a responsive background which changes according to day and night.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
